@@ -1,6 +1,10 @@
 
+---
+title: New Jersey Interactive Webmap
+---
+
 # New Jersey Interactive Webmap
 
-Welcome to my interactive Folium webmap of selected locations in New Jersey. This map was created using Python and Folium and published using GitHub Pages.
+Welcome to my interactive Folium webmap of selected locations in New Jersey.
 
-<iframe src="assignment8_new_jersey_webmap.html" width="100%" height="650" style="border:none;"></iframe>
+<iframe src="./assignment8_new_jersey_webmap.html" width="100%" height="650" style="border: none;"></iframe>
